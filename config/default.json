@@ -1,6 +1,5 @@
 {
     "mongoURI": "mongodb+srv://albi123:albi123@devconnector-ihrbv.mongodb.net/test?retryWrites=true&w=majority",
     "jwtSecret": "mysecret",
-    "githubClientId": "b2be62e86589e35709cf",
-    "githubSecret": "5c6c81b2b06bcdde4876a5d1dcd43006b30940f5"
+    "githubToken": "a586b0c0301b36944d8fab40d4c784282afc271c"
 }
